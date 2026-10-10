@@ -1,0 +1,4 @@
+git status : tells the status
+git add : add a file to the staging age and ready to commit 
+git commit -m "message we want to send while comminting something"
+git log : what commitment we made
